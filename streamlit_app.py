@@ -1,7 +1,7 @@
 import streamlit as st
 import sqlite3
 import os
-from github import Github
+# from github import Github
 
 # GitHub 레포지토리 정보
 repo_owner = "rkqksk"
